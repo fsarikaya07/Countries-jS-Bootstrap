@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+main{
+    background-image: url("https://i.hbrcdn.com/haber/2021/05/07/dunya-da-kac-ulke-var-2021-dunya-da-kac-ulke-var-14116415_8425_amp.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: auto;
+}
+.countries{
+    display: flex;
+    flex-wrap: wrap;
+}
